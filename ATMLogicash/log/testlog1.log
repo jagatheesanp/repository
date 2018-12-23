@@ -1,0 +1,49 @@
+2018-12-17 19:22:53,222 [main] INFO common.BrowserCommands - Chrome invoked successfully
+2018-12-17 19:23:18,362 [main] INFO common.BrowserCommands - url launched successfully
+2018-12-17 19:23:19,287 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:23:19,825 [main] INFO common.BrowserCommands - Element clicked successfully
+2018-12-17 19:23:23,162 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:23:23,350 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:23:44,015 [main] INFO common.BrowserCommands - Element clicked successfully
+2018-12-17 19:45:14,843 [main] INFO common.BrowserCommands - Chrome invoked successfully
+2018-12-17 19:45:22,261 [main] INFO common.BrowserCommands - url launched successfully
+2018-12-17 19:45:25,061 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:45:25,749 [main] INFO common.BrowserCommands - Element clicked successfully
+2018-12-17 19:45:28,939 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:45:29,134 [main] INFO common.BrowserCommands - input typed successfully
+2018-12-17 19:45:29,864 [main] INFO common.BrowserCommands - Element clicked successfully
+2018-12-17 19:58:06,710 [main] ERROR common.BrowserCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 19:59:08,528 [main] ERROR common.BrowserCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:00:56,597 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:00:56,675 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-17 20:02:25,521 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:02:25,583 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-17 20:04:10,181 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:04:10,235 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-17 20:07:41,623 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:07:41,913 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-17 20:11:23,054 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:11:23,090 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-17 20:14:18,431 [main] ERROR common.SeleniumCommands - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:14:18,431 [main] ERROR common.SeleniumCommands - null
+null
+2018-12-20 20:47:57,660 [main] INFO common.SeleniumCommands - Chrome Driver has launched Successfully!
+2018-12-20 20:48:03,391 [main] INFO common.SeleniumCommands - URL: http://lens.logicash.co.in/ATM/index.php has launched Successfully!
+2018-12-20 20:48:05,465 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-20 20:48:08,595 [main] INFO common.SeleniumCommands - Element: [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> xpath: //input[@type='submit']] got clicked Successfully!
+2018-12-20 20:48:09,856 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-20 20:48:10,203 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Password] filled by an input: Fss123 Successfully!
+2018-12-20 20:48:10,778 [main] INFO common.SeleniumCommands - Element: [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> xpath: //input[@type='submit']] got clicked Successfully!

@@ -1,0 +1,49 @@
+2018-12-17 19:22:53,222 - common.BrowserCommands -INFO - Chrome invoked successfully
+2018-12-17 19:23:18,362 - common.BrowserCommands -INFO - url launched successfully
+2018-12-17 19:23:19,287 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:23:19,825 - common.BrowserCommands -INFO - Element clicked successfully
+2018-12-17 19:23:23,162 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:23:23,350 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:23:44,015 - common.BrowserCommands -INFO - Element clicked successfully
+2018-12-17 19:45:14,843 - common.BrowserCommands -INFO - Chrome invoked successfully
+2018-12-17 19:45:22,261 - common.BrowserCommands -INFO - url launched successfully
+2018-12-17 19:45:25,061 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:45:25,749 - common.BrowserCommands -INFO - Element clicked successfully
+2018-12-17 19:45:28,939 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:45:29,134 - common.BrowserCommands -INFO - input typed successfully
+2018-12-17 19:45:29,864 - common.BrowserCommands -INFO - Element clicked successfully
+2018-12-17 19:58:06,710 - common.BrowserCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 19:59:08,528 - common.BrowserCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:00:56,597 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:00:56,675 - common.SeleniumCommands -ERROR - null
+null
+2018-12-17 20:02:25,521 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:02:25,583 - common.SeleniumCommands -ERROR - null
+null
+2018-12-17 20:04:10,181 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:04:10,235 - common.SeleniumCommands -ERROR - null
+null
+2018-12-17 20:07:41,623 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:07:41,913 - common.SeleniumCommands -ERROR - null
+null
+2018-12-17 20:11:23,054 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:11:23,090 - common.SeleniumCommands -ERROR - null
+null
+2018-12-17 20:14:18,431 - common.SeleniumCommands -ERROR - null
+The driver executable does not exist: D:\java project\ATMLogicash\.\drivers\chromedriver.exe
+2018-12-17 20:14:18,431 - common.SeleniumCommands -ERROR - null
+null
+2018-12-20 20:47:57,660 - common.SeleniumCommands -INFO - Chrome Driver has launched Successfully!
+2018-12-20 20:48:03,391 - common.SeleniumCommands -INFO - URL: http://lens.logicash.co.in/ATM/index.php has launched Successfully!
+2018-12-20 20:48:05,465 - common.SeleniumCommands -INFO - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-20 20:48:08,595 - common.SeleniumCommands -INFO - Element: [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> xpath: //input[@type='submit']] got clicked Successfully!
+2018-12-20 20:48:09,856 - common.SeleniumCommands -INFO - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-20 20:48:10,203 - common.SeleniumCommands -INFO - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Password] filled by an input: Fss123 Successfully!
+2018-12-20 20:48:10,778 - common.SeleniumCommands -INFO - Element: [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> xpath: //input[@type='submit']] got clicked Successfully!
