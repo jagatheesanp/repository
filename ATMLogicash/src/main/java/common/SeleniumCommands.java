@@ -340,7 +340,7 @@ public class SeleniumCommands {
 		if (status.equalsIgnoreCase("PASS")) {
 			
 			log.info(msg);
-			ATUReports.add(msg, LogAs.PASSED, null);
+			ATUReports.add(msg, LogAs.PASSED, new CaptureScreen(ScreenshotOf.BROWSER_PAGE));
 
 		} else if (status.equalsIgnoreCase("FAIL")) {
 	

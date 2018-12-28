@@ -47,3 +47,10 @@ null
 2018-12-20 20:48:09,856 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Username] filled by an input: FSS01 Successfully!
 2018-12-20 20:48:10,203 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> name: Password] filled by an input: Fss123 Successfully!
 2018-12-20 20:48:10,778 [main] INFO common.SeleniumCommands - Element: [[ChromeDriver: chrome on XP (47f6be5572cd523c2184b74682db76d4)] -> xpath: //input[@type='submit']] got clicked Successfully!
+2018-12-28 20:16:22,059 [main] INFO common.SeleniumCommands - Chrome Driver has launched Successfully!
+2018-12-28 20:16:30,338 [main] INFO common.SeleniumCommands - URL: http://lens.logicash.co.in/ATM/index.php has launched Successfully!
+2018-12-28 20:16:31,676 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (856e477a75057cad469823a1e84b46b7)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-28 20:16:32,848 [main] INFO common.SeleniumCommands - Element: [[ChromeDriver: chrome on XP (856e477a75057cad469823a1e84b46b7)] -> xpath: //input[@type='submit']] got clicked Successfully!
+2018-12-28 20:16:33,563 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (856e477a75057cad469823a1e84b46b7)] -> name: Username] filled by an input: FSS01 Successfully!
+2018-12-28 20:16:34,064 [main] INFO common.SeleniumCommands - Element : [[ChromeDriver: chrome on XP (856e477a75057cad469823a1e84b46b7)] -> name: Password] filled by an input: Fss123 Successfully!
+2018-12-28 20:16:34,534 [main] INFO common.SeleniumCommands - Element: [[ChromeDriver: chrome on XP (856e477a75057cad469823a1e84b46b7)] -> xpath: //input[@type='submit']] got clicked Successfully!

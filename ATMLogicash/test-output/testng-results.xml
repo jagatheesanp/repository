@@ -23,12 +23,12 @@
       <![CDATA[STEP7]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="7402" started-at="2018-12-20T15:18:03Z" finished-at="2018-12-20T15:18:10Z">
+  <suite name="Suite" duration-ms="4202" started-at="2018-12-28T14:46:30Z" finished-at="2018-12-28T14:46:34Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="7402" started-at="2018-12-20T15:18:03Z" finished-at="2018-12-20T15:18:10Z">
+    <test name="Test" duration-ms="4202" started-at="2018-12-28T14:46:30Z" finished-at="2018-12-28T14:46:34Z">
       <class name="mytestcases.LoginValidation">
-        <test-method status="PASS" signature="preConditions()[pri:0, instance:mytestcases.LoginValidation@7dc304]" name="preConditions" is-config="true" duration-ms="45629" started-at="2018-12-20T15:17:17Z" finished-at="2018-12-20T15:18:03Z">
+        <test-method status="PASS" signature="preConditions()[pri:0, instance:mytestcases.LoginValidation@7dc304]" name="preConditions" is-config="true" duration-ms="33008" started-at="2018-12-28T14:45:57Z" finished-at="2018-12-28T14:46:30Z">
           <reporter-output>
             <line>
               <![CDATA[STEP1]]>
@@ -38,7 +38,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- preConditions -->
-        <test-method status="PASS" signature="testUserLogin()[pri:0, instance:mytestcases.LoginValidation@7dc304]" name="testUserLogin" duration-ms="7216" started-at="2018-12-20T15:18:03Z" finished-at="2018-12-20T15:18:10Z">
+        <test-method status="PASS" signature="testUserLogin()[pri:0, instance:mytestcases.LoginValidation@7dc304]" name="testUserLogin" duration-ms="4084" started-at="2018-12-28T14:46:30Z" finished-at="2018-12-28T14:46:34Z">
           <reporter-output>
             <line>
               <![CDATA[STEP3]]>
